@@ -1,4 +1,4 @@
-### Software Engineer focusing on Data 📊 and ML 🔮 Engineering
+### Senior Engineer building Data 📊 and ML 🔮 Products
 
 - 🔭  I’m working on data products [@Scout24](https://www.immobilienscout24.de/)
 - 🌱  I'm learning probably too many things, mostly related to data engineering and machine learning engineering
