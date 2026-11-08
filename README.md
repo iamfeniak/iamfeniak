@@ -1,13 +1,19 @@
-# Hi there, I'm Bohdan Feniak 👋
+# Hi, I'm Bohdan 👋
 
-I'm working with teams building the future of **agentic applications** 🚀
+**Director of Engineering at [DataRobot](https://www.datarobot.com)**, based in Berlin.
 
-We're navigating complexity together and building platforms that power the next generation of intelligent systems. From infrastructure to tooling, laying the groundwork for what's coming.
+I lead engineering teams building AI agents and the developer tooling that helps others build them,
+taking agents from first prototype to production systems that enterprises rely on.
 
+### What I focus on
+- **Building agents:** designing and shipping agentic applications that solve real business problems
+- **Developer tooling:** SDKs, frameworks and workflows that make building, testing and deploying agents fast
+- **Engineering leadership:** growing high-performing teams and the leaders who run them
 
+### Previously
+Building AI products at **Scout24** and **Zalando**.
 
 ## 🔗 Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/feniak/)
-
-Building the future of agentic applications? Let's connect.
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/iamfeniak)
